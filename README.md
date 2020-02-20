@@ -4,9 +4,9 @@
 
      Make a Choice For a Better Tomorrow Today!
         We built this application to provide a practical tool to access information about food and drinks.
-        It is designed so that the user can get calorie or nutiritional info directly, and make their own decisions.
-        The program can be used for diet planning, menu selection or just as a helpful source for
-        people trying to maintain healthy lifestyles.
+        It is designed so that the user can get calorie or nutiritional info directly, and make their 
+        own decisions.The program can be used for diet planning, menu selection or just as a helpful 
+        source for people trying to maintain healthy lifestyles.
 
 ## Visit our github page: 
 https://github.com/TomaszChylinski/Project-2
